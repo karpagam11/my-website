@@ -1,0 +1,4 @@
+I'm a git newbie and I keep reading about a "master" branch. 
+Is "master" just a conventional name that people used or does it have special meaning like HEAD?
+When I do git branch on the clone that I have, I only see 1 single branch - the one I'm on. No "master" at all.
+If I type git checkout master (as I see in alot of tutorials or guides), I get
